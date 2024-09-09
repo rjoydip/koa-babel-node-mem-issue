@@ -39,3 +39,7 @@ The repository show the memory consumption w/o `babel-node`.
 - Statistics results
 
 <img alt="0x" src="assets\img\memory-snapshot-statistics-without-babel-node.png">
+
+## References
+
+- https://github.com/thlorenz/v8-perf/blob/master/gc.md
