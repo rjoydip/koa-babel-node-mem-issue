@@ -1,0 +1,195 @@
+[3796:00000201857D28D0]   126670 ms: Scavenge 5.3 (5.5) -> 4.8 (6.5) MB, 1.55 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   126756 ms: Scavenge 5.8 (7.0) -> 5.5 (7.7) MB, 1.13 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   126823 ms: Scavenge 6.2 (7.7) -> 5.6 (9.7) MB, 1.23 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   126958 ms: Scavenge 8.1 (10.2) -> 6.9 (11.0) MB, 1.36 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   127037 ms: Scavenge 8.5 (11.0) -> 7.4 (11.5) MB, 1.24 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   127134 ms: Scavenge 9.5 (11.7) -> 8.2 (12.5) MB, 1.39 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   127276 ms: Scavenge 9.9 (12.5) -> 8.5 (17.2) MB, 2.21 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   127567 ms: Scavenge 12.6 (17.2) -> 9.6 (18.0) MB, 0.88 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   127731 ms: Scavenge 13.3 (18.0) -> 10.3 (19.0) MB, 1.82 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   127928 ms: Scavenge 14.2 (19.0) -> 10.9 (19.5) MB, 0.91 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   128087 ms: Scavenge 14.9 (19.5) -> 11.6 (20.5) MB, 0.99 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   128261 ms: Scavenge 15.4 (20.5) -> 12.2 (20.7) MB, 1.06 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   128665 ms: Scavenge 16.4 (20.7) -> 13.3 (30.0) MB, 2.30 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   129170 ms: Scavenge 21.8 (30.2) -> 16.5 (31.7) MB, 2.24 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[3796:00000201857D28D0]   129336 ms: Mark-Compact 19.4 (32.0) -> 13.4 (34.2) MB, 6.36 / 0.00 ms  (+ 0.5 ms in 4 steps since start of marking, biggest step 0.2 ms, walltime since start of marking 21 ms) (average mu = 1.000, current mu = 1.000) finalize incremental marking via stack guard; GC in old space requested
+[3796:00000201857D28D0]   129933 ms: Scavenge 23.2 (34.4) -> 17.0 (34.2) MB, 1.38 / 0.00 ms  (average mu = 1.000, current mu = 1.000) task; 
+[3796:00000201857D28D0]   138063 ms: Mark-Compact (reduce) 18.1 (34.5) -> 15.9 (18.2) MB, 17.80 / 0.01 ms  (+ 0.0 ms in 1 steps since start of marking, biggest step 0.0 ms, walltime since start of marking 31 ms) (average mu = 0.998, current mu = 0.998) finalize incremental marking via task; GC in old space requested
+[3796:00000201857D28D0]   138695 ms: Mark-Compact (reduce) 15.9 (18.2) -> 15.9 (17.7) MB, 8.23 / 0.00 ms  (+ 0.0 ms in 1 steps since start of marking, biggest step 0.0 ms, walltime since start of marking 20 ms) (average mu = 0.997, current mu = 0.987) finalize incremental marking via task; GC in old space requested
+[3796:00000201857D28D0]   165264 ms: Mark-Compact 16.9 (18.0) -> 16.1 (19.0) MB, 12.83 / 0.00 ms  (average mu = 0.999, current mu = 1.000) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   165374 ms: Mark-Compact 16.1 (19.0) -> 16.1 (18.0) MB, 16.62 / 0.00 ms  (average mu = 0.998, current mu = 0.849) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   165450 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 16.73 / 0.00 ms  (average mu = 0.996, current mu = 0.781) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   165540 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 18.84 / 0.00 ms  (average mu = 0.991, current mu = 0.789) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   165627 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 16.77 / 0.00 ms  (average mu = 0.984, current mu = 0.807) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   165711 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 22.37 / 0.00 ms  (average mu = 0.966, current mu = 0.734) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   165795 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 19.48 / 0.00 ms  (average mu = 0.940, current mu = 0.769) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   165884 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 18.04 / 0.00 ms  (average mu = 0.910, current mu = 0.797) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   165976 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 18.41 / 0.00 ms  (average mu = 0.876, current mu = 0.800) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   166063 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 16.80 / 0.00 ms  (average mu = 0.851, current mu = 0.807) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   166151 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 21.01 / 0.00 ms  (average mu = 0.813, current mu = 0.762) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   166232 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 17.35 / 0.00 ms  (average mu = 0.801, current mu = 0.786) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   166312 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 13.93 / 0.00 ms  (average mu = 0.813, current mu = 0.826) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   166399 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 21.02 / 0.00 ms  (average mu = 0.785, current mu = 0.758) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   166484 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 16.00 / 0.00 ms  (average mu = 0.798, current mu = 0.811) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   166578 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 25.16 / 0.00 ms  (average mu = 0.764, current mu = 0.733) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   166661 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 15.14 / 0.00 ms  (average mu = 0.789, current mu = 0.817) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   166745 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 16.83 / 0.00 ms  (average mu = 0.794, current mu = 0.800) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   166829 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 16.12 / 0.00 ms  (average mu = 0.802, current mu = 0.810) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   166922 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 19.63 / 0.00 ms  (average mu = 0.795, current mu = 0.789) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   167016 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 15.91 / 0.00 ms  (average mu = 0.813, current mu = 0.829) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   167099 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 17.82 / 0.00 ms  (average mu = 0.800, current mu = 0.786) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   167183 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 17.32 / 0.00 ms  (average mu = 0.797, current mu = 0.794) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   167263 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 16.31 / 0.00 ms  (average mu = 0.797, current mu = 0.797) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   167379 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 47.72 / 0.00 ms  (average mu = 0.675, current mu = 0.587) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   167517 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 22.33 / 0.00 ms  (average mu = 0.770, current mu = 0.838) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   167598 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 18.37 / 0.00 ms  (average mu = 0.771, current mu = 0.773) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   167682 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 15.13 / 0.00 ms  (average mu = 0.794, current mu = 0.821) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   167768 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 19.99 / 0.00 ms  (average mu = 0.781, current mu = 0.766) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   167857 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 21.56 / 0.00 ms  (average mu = 0.770, current mu = 0.760) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   167938 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 18.69 / 0.00 ms  (average mu = 0.769, current mu = 0.767) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   168017 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 21.17 / 0.00 ms  (average mu = 0.751, current mu = 0.733) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   168100 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 18.43 / 0.00 ms  (average mu = 0.765, current mu = 0.779) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   168184 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 16.45 / 0.00 ms  (average mu = 0.784, current mu = 0.803) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   168261 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 16.28 / 0.00 ms  (average mu = 0.787, current mu = 0.790) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   168347 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 15.71 / 0.00 ms  (average mu = 0.802, current mu = 0.816) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   168433 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 16.85 / 0.00 ms  (average mu = 0.803, current mu = 0.804) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   168514 ms: Mark-Compact 16.1 (18.0) -> 16.1 (18.0) MB, 17.46 / 0.00 ms  (average mu = 0.794, current mu = 0.785) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   168618 ms: Mark-Compact 16.6 (18.0) -> 16.2 (18.0) MB, 32.80 / 0.01 ms  (average mu = 0.734, current mu = 0.686) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   168752 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 10.15 / 0.00 ms  (average mu = 0.846, current mu = 0.924) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   168831 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.82 / 0.00 ms  (average mu = 0.822, current mu = 0.786) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   168960 ms: Mark-Compact 16.5 (18.0) -> 16.2 (19.0) MB, 28.19 / 2.44 ms  (average mu = 0.798, current mu = 0.781) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   169081 ms: Mark-Compact 16.2 (19.0) -> 16.2 (18.0) MB, 13.53 / 0.00 ms  (average mu = 0.845, current mu = 0.889) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   169168 ms: Mark-Compact 16.3 (18.0) -> 16.2 (19.0) MB, 20.15 / 0.01 ms  (average mu = 0.812, current mu = 0.768) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   169296 ms: Mark-Compact 16.2 (19.0) -> 16.2 (19.0) MB, 12.40 / 0.00 ms  (average mu = 0.863, current mu = 0.903) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   169374 ms: Mark-Compact 16.2 (19.0) -> 16.2 (19.0) MB, 17.00 / 0.00 ms  (average mu = 0.830, current mu = 0.782) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   169452 ms: Mark-Compact 16.2 (19.0) -> 16.2 (19.0) MB, 18.03 / 0.00 ms  (average mu = 0.803, current mu = 0.771) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   169553 ms: Mark-Compact 16.3 (19.0) -> 16.2 (19.0) MB, 28.67 / 0.02 ms  (average mu = 0.756, current mu = 0.714) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   169677 ms: Mark-Compact 16.2 (19.0) -> 16.2 (19.0) MB, 13.03 / 0.00 ms  (average mu = 0.835, current mu = 0.895) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   169781 ms: Mark-Compact 16.4 (19.0) -> 16.2 (18.0) MB, 30.33 / 0.02 ms  (average mu = 0.774, current mu = 0.710) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   169904 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 12.70 / 0.00 ms  (average mu = 0.839, current mu = 0.897) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   170000 ms: Mark-Compact 16.3 (18.0) -> 16.2 (18.0) MB, 31.16 / 0.01 ms  (average mu = 0.765, current mu = 0.675) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   170241 ms: Mark-Compact 16.3 (18.0) -> 16.2 (18.0) MB, 29.89 / 0.01 ms  (average mu = 0.842, current mu = 0.876) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   170364 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 15.07 / 0.00 ms  (average mu = 0.857, current mu = 0.877) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   170474 ms: Mark-Compact 16.4 (18.0) -> 16.2 (18.0) MB, 26.58 / 0.01 ms  (average mu = 0.815, current mu = 0.760) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   170590 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 12.44 / 0.00 ms  (average mu = 0.852, current mu = 0.893) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   170705 ms: Mark-Compact 16.3 (18.0) -> 16.2 (18.0) MB, 25.38 / 0.01 ms  (average mu = 0.816, current mu = 0.778) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   170829 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.96 / 0.00 ms  (average mu = 0.836, current mu = 0.855) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   170938 ms: Mark-Compact 16.3 (18.0) -> 16.2 (18.0) MB, 26.43 / 0.01 ms  (average mu = 0.799, current mu = 0.758) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   171064 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 12.98 / 0.00 ms  (average mu = 0.850, current mu = 0.897) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   171146 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 15.12 / 0.00 ms  (average mu = 0.836, current mu = 0.815) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   171251 ms: Mark-Compact 16.4 (18.0) -> 16.2 (18.0) MB, 32.54 / 0.02 ms  (average mu = 0.762, current mu = 0.690) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   171377 ms: Mark-Compact 16.3 (18.0) -> 16.2 (18.0) MB, 12.68 / 0.00 ms  (average mu = 0.838, current mu = 0.900) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   171457 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 20.20 / 0.00 ms  (average mu = 0.801, current mu = 0.747) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   171543 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 21.70 / 0.00 ms  (average mu = 0.776, current mu = 0.748) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   171648 ms: Mark-Compact 16.5 (18.0) -> 16.2 (18.0) MB, 31.46 / 0.02 ms  (average mu = 0.735, current mu = 0.699) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   171766 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 13.18 / 0.00 ms  (average mu = 0.819, current mu = 0.889) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   171847 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 18.93 / 0.00 ms  (average mu = 0.797, current mu = 0.767) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   171948 ms: Mark-Compact 16.3 (18.0) -> 16.2 (19.0) MB, 32.90 / 0.01 ms  (average mu = 0.733, current mu = 0.673) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   172066 ms: Mark-Compact 16.2 (19.0) -> 16.2 (19.0) MB, 13.78 / 0.00 ms  (average mu = 0.815, current mu = 0.883) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   172139 ms: Mark-Compact 16.2 (19.0) -> 16.2 (19.0) MB, 15.88 / 0.00 ms  (average mu = 0.802, current mu = 0.782) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   172233 ms: Mark-Compact 16.3 (19.0) -> 16.2 (19.0) MB, 34.62 / 0.03 ms  (average mu = 0.715, current mu = 0.632) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   172346 ms: Mark-Compact 16.2 (19.0) -> 16.2 (18.0) MB, 13.50 / 0.00 ms  (average mu = 0.807, current mu = 0.881) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   172421 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 20.27 / 0.00 ms  (average mu = 0.774, current mu = 0.730) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   172517 ms: Mark-Compact 16.3 (18.0) -> 16.2 (18.0) MB, 31.56 / 0.01 ms  (average mu = 0.720, current mu = 0.670) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   172632 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 13.50 / 0.00 ms  (average mu = 0.810, current mu = 0.882) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   172711 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 22.18 / 0.00 ms  (average mu = 0.771, current mu = 0.718) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   172805 ms: Mark-Compact 16.4 (18.0) -> 16.2 (18.0) MB, 32.50 / 0.01 ms  (average mu = 0.713, current mu = 0.657) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   172941 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 13.24 / 0.00 ms  (average mu = 0.825, current mu = 0.902) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   173049 ms: Mark-Compact 16.3 (18.0) -> 16.2 (18.0) MB, 28.07 / 0.01 ms  (average mu = 0.784, current mu = 0.740) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   173178 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 19.12 / 0.00 ms  (average mu = 0.820, current mu = 0.851) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   173281 ms: Mark-Compact 16.3 (18.0) -> 16.2 (18.0) MB, 25.47 / 0.01 ms  (average mu = 0.789, current mu = 0.753) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   173405 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 19.86 / 0.00 ms  (average mu = 0.816, current mu = 0.840) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   173479 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 14.55 / 0.00 ms  (average mu = 0.811, current mu = 0.804) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   173562 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 18.13 / 0.00 ms  (average mu = 0.798, current mu = 0.783) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   173647 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.19 / 0.00 ms  (average mu = 0.803, current mu = 0.809) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   173730 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 15.69 / 0.00 ms  (average mu = 0.807, current mu = 0.812) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   173810 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 14.37 / 0.00 ms  (average mu = 0.814, current mu = 0.820) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   173892 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.32 / 0.00 ms  (average mu = 0.807, current mu = 0.801) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   173966 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.21 / 0.00 ms  (average mu = 0.794, current mu = 0.780) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174041 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 15.64 / 0.00 ms  (average mu = 0.793, current mu = 0.791) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174118 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.10 / 0.00 ms  (average mu = 0.792, current mu = 0.791) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174200 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.50 / 0.00 ms  (average mu = 0.796, current mu = 0.799) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174275 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.26 / 0.00 ms  (average mu = 0.790, current mu = 0.785) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174358 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 19.47 / 0.00 ms  (average mu = 0.777, current mu = 0.764) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174434 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 13.78 / 0.00 ms  (average mu = 0.797, current mu = 0.819) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174515 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.57 / 0.00 ms  (average mu = 0.796, current mu = 0.795) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174597 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.84 / 0.00 ms  (average mu = 0.795, current mu = 0.795) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174676 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.52 / 0.00 ms  (average mu = 0.793, current mu = 0.791) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174756 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 21.17 / 0.00 ms  (average mu = 0.765, current mu = 0.736) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174834 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.82 / 0.00 ms  (average mu = 0.774, current mu = 0.784) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174911 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.11 / 0.00 ms  (average mu = 0.782, current mu = 0.791) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   174991 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 23.81 / 0.00 ms  (average mu = 0.742, current mu = 0.702) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   175059 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.89 / 0.00 ms  (average mu = 0.746, current mu = 0.751) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   175129 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 15.57 / 0.00 ms  (average mu = 0.762, current mu = 0.779) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   175203 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 18.14 / 0.00 ms  (average mu = 0.758, current mu = 0.754) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   175274 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 14.76 / 0.00 ms  (average mu = 0.776, current mu = 0.794) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   175347 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.79 / 0.00 ms  (average mu = 0.772, current mu = 0.769) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   175421 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 18.60 / 0.00 ms  (average mu = 0.761, current mu = 0.749) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   175556 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 33.95 / 0.00 ms  (average mu = 0.753, current mu = 0.749) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   175645 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.64 / 0.00 ms  (average mu = 0.780, current mu = 0.812) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   175741 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 22.31 / 0.00 ms  (average mu = 0.774, current mu = 0.767) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   175829 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.83 / 0.00 ms  (average mu = 0.785, current mu = 0.798) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   175930 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 28.53 / 0.00 ms  (average mu = 0.750, current mu = 0.718) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   176024 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.32 / 0.00 ms  (average mu = 0.787, current mu = 0.825) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   176117 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.68 / 0.00 ms  (average mu = 0.805, current mu = 0.822) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   176212 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 18.21 / 0.00 ms  (average mu = 0.807, current mu = 0.809) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   176328 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 23.32 / 0.00 ms  (average mu = 0.802, current mu = 0.798) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   176393 ms: Mark-Compact 16.4 (18.0) -> 16.2 (18.0) MB, 14.57 / 0.00 ms  (average mu = 0.792, current mu = 0.777) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   176484 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.79 / 0.00 ms  (average mu = 0.798, current mu = 0.804) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   176578 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.89 / 0.00 ms  (average mu = 0.810, current mu = 0.821) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   176661 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 14.84 / 0.00 ms  (average mu = 0.815, current mu = 0.819) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   176742 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 18.50 / 0.00 ms  (average mu = 0.794, current mu = 0.772) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   176828 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 18.53 / 0.00 ms  (average mu = 0.789, current mu = 0.785) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   176916 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.22 / 0.00 ms  (average mu = 0.797, current mu = 0.805) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   177010 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.58 / 0.00 ms  (average mu = 0.810, current mu = 0.822) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   177107 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 24.67 / 0.00 ms  (average mu = 0.777, current mu = 0.747) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   177192 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 18.21 / 0.00 ms  (average mu = 0.781, current mu = 0.786) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   177279 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.07 / 0.00 ms  (average mu = 0.793, current mu = 0.804) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   177365 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.45 / 0.00 ms  (average mu = 0.794, current mu = 0.796) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   177450 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 19.46 / 0.00 ms  (average mu = 0.783, current mu = 0.772) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   177535 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 13.27 / 0.00 ms  (average mu = 0.813, current mu = 0.843) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   177624 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.67 / 0.00 ms  (average mu = 0.813, current mu = 0.813) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   177709 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.72 / 0.00 ms  (average mu = 0.809, current mu = 0.804) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   177796 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.41 / 0.00 ms  (average mu = 0.804, current mu = 0.799) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   177880 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.03 / 0.00 ms  (average mu = 0.801, current mu = 0.797) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   177968 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.87 / 0.00 ms  (average mu = 0.799, current mu = 0.798) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   178056 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 21.87 / 0.00 ms  (average mu = 0.775, current mu = 0.751) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   178140 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 15.53 / 0.00 ms  (average mu = 0.795, current mu = 0.816) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   178218 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.61 / 0.00 ms  (average mu = 0.785, current mu = 0.774) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   178343 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.90 / 0.00 ms  (average mu = 0.829, current mu = 0.857) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   178426 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 14.63 / 0.00 ms  (average mu = 0.827, current mu = 0.824) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   178513 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.75 / 0.00 ms  (average mu = 0.817, current mu = 0.806) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   178601 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 18.80 / 0.00 ms  (average mu = 0.802, current mu = 0.788) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   178691 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 24.57 / 0.00 ms  (average mu = 0.764, current mu = 0.725) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   178776 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.02 / 0.00 ms  (average mu = 0.782, current mu = 0.801) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   178864 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.68 / 0.00 ms  (average mu = 0.790, current mu = 0.799) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   178949 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 18.09 / 0.00 ms  (average mu = 0.789, current mu = 0.787) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   179030 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 14.78 / 0.00 ms  (average mu = 0.803, current mu = 0.818) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   179118 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.36 / 0.00 ms  (average mu = 0.802, current mu = 0.801) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   179210 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 14.56 / 0.00 ms  (average mu = 0.823, current mu = 0.842) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   179298 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 15.01 / 0.00 ms  (average mu = 0.826, current mu = 0.829) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   179389 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.38 / 0.00 ms  (average mu = 0.818, current mu = 0.810) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   179477 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.55 / 0.00 ms  (average mu = 0.815, current mu = 0.813) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   179567 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 19.32 / 0.00 ms  (average mu = 0.799, current mu = 0.783) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   179649 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.27 / 0.00 ms  (average mu = 0.800, current mu = 0.802) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   179734 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.93 / 0.00 ms  (average mu = 0.795, current mu = 0.789) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   179827 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.48 / 0.00 ms  (average mu = 0.809, current mu = 0.823) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   179909 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 19.42 / 0.00 ms  (average mu = 0.788, current mu = 0.764) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   179995 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 18.28 / 0.00 ms  (average mu = 0.788, current mu = 0.788) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   180081 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 18.47 / 0.00 ms  (average mu = 0.786, current mu = 0.784) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   180165 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.37 / 0.00 ms  (average mu = 0.790, current mu = 0.794) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   180250 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.71 / 0.00 ms  (average mu = 0.797, current mu = 0.803) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   180339 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 21.52 / 0.00 ms  (average mu = 0.776, current mu = 0.757) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   180422 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 13.28 / 0.00 ms  (average mu = 0.808, current mu = 0.841) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   180505 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 21.07 / 0.00 ms  (average mu = 0.778, current mu = 0.746) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   180595 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 17.93 / 0.00 ms  (average mu = 0.789, current mu = 0.799) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   180679 ms: Mark-Compact 16.2 (18.0) -> 16.2 (18.0) MB, 16.74 / 0.00 ms  (average mu = 0.795, current mu = 0.802) heap profiler; GC in old space requested
+[3796:00000201857D28D0]   356493 ms: Mark-Compact (reduce) 16.2 (18.0) -> 16.2 (18.0) MB, 14.81 / 0.00 ms  (average mu = 1.000, current mu = 1.000) low memory notification; GC in old space requested   
+[3796:00000201857D28D0]   356514 ms: Mark-Compact (reduce) 16.2 (18.0) -> 16.2 (18.0) MB, 15.08 / 0.00 ms  (average mu = 1.000, current mu = 0.269) low memory notification; GC in old space requested   
+[3796:00000201857D28D0]   357687 ms: Mark-Compact (reduce) 16.2 (18.0) -> 16.2 (18.0) MB, 21.31 / 0.00 ms  (average mu = 0.999, current mu = 0.982) low memory notification; GC in old space requested   
+[3796:00000201857D28D0]   356493 ms: Mark-Compact (reduce) 16.2 (18.0) -> 16.2 (18.0) MB, 14.81 / 0.00 ms  (average mu = 1.000, current mu = 1.000) low memory notification; GC in old space requested
+[3796:00000201857D28D0]   356514 ms: Mark-Compact (reduce) 16.2 (18.0) -> 16.2 (18.0) MB, 15.08 / 0.00 ms  (average mu = 1.000, current mu = 0.269) low memory notification; GC in old space requested
+[3796:00000201857D28D0]   357687 ms: Mark-Compact (reduce) 16.2 (18.0) -> 16.2 (18.0) MB, 21.31 / 0.00 ms  (average mu = 0.999, current mu = 0.982) low memory notification; GC in old space requested
+[3796:00000201857D28D0]   357710 ms: Mark-Compact (reduce) 16.2 (18.0) -> 16.2 (18.0) MB, 22.62 / 0.00 ms  (average mu = 0.998, current mu = 0.018) low memory notification; GC in old space requested
+[3796:00000201857D28D0]   358325 ms: Mark-Compact (reduce) 16.2 (18.0) -> 16.2 (18.0) MB, 16.21 / 0.00 ms  (average mu = 0.997, current mu = 0.974) low memory notification; GC in old space requested
+[3796:00000201857D28D0]   358347 ms: Mark-Compact (reduce) 16.2 (18.0) -> 16.2 (18.0) MB, 14.93 / 0.00 ms  (average mu = 0.994, current mu = 0.309) low memory notification; GC in old space requested
